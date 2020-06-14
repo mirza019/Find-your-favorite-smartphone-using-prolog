@@ -4,4 +4,4 @@ My AI project
  
  we did this with swiprolog
 
-All rights reserved by Mirza Shahhen Iqubal and Mahdian Drovo
+All rights reserved by  Mah dian Drovo and Mirza Shahhen Iqubal 
